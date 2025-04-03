@@ -1,5 +1,5 @@
 {
-  "name": "sequalize_c",
+  "name": "render_host",
   "version": "1.0.0",
   "description": "A simple Express and Sequelize project",
   "main": "index.js",

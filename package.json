@@ -2,7 +2,7 @@
   "name": "render_host",
   "version": "1.0.0",
   "description": "A simple Express and Sequelize project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",

@@ -4,8 +4,8 @@
   "description": "A simple Express and Sequelize project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "build": "echo 'No build step required'"
   },
   "dependencies": {
